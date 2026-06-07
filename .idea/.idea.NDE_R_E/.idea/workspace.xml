@@ -12,7 +12,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b554f6e7-b5fc-403c-92e0-f5b8ec1690b5" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/Content/FirstPerson/Sound/SoundEffect/音效/音效/ui互动/1.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/FirstPerson/Sound/SoundEffect/音效/音效/ui互动/2.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/FirstPerson/Sound/SoundEffect/音效/音效/ui互动/3.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/FirstPerson/Sound/SoundEffect/音效/音效/ui互动/4.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/FirstPerson/Sound/SoundEffect/音效/音效/人物坠落触地.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/FirstPerson/Sound/SoundEffect/音效/音效/压力板.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/FirstPerson/Sound/SoundEffect/音效/音效/存档.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/FirstPerson/Sound/SoundEffect/音效/音效/物体掉落碰撞/SC_ObjDrop.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/FirstPerson/Sound/SoundEffect/音效/音效/物体掉落碰撞/SD_ObjDrop_1.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/FirstPerson/Sound/SoundEffect/音效/音效/物体掉落碰撞/SD_ObjDrop_2.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/FirstPerson/Sound/SoundEffect/音效/音效/物体掉落碰撞/SD_ObjDrop_3.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/FirstPerson/Sound/SoundEffect/音效/音效/物体掉落碰撞/SD_ObjDrop_4.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/FirstPerson/Sound/SoundEffect/音效/音效/物体掉落碰撞/SD_ObjDrop_5.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/FirstPerson/Sound/SoundEffect/音效/音效/通过重力桥.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/FirstPerson/Sound/SoundEffect/音效/音效/重力方块/持续音效.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/FirstPerson/Sound/SoundEffect/音效/音效/重力方块/重力方块关闭.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/FirstPerson/Sound/SoundEffect/音效/音效/重力方块/重力方块启动.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/FirstPerson/Sound/SoundEffect/音效/音效/门/机制门.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/FirstPerson/Sound/SoundEffect/音效/音效/门/机制门2.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/FirstPerson/Sound/SoundEffect/音效/音效/门/自动门关闭.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/FirstPerson/Sound/SoundEffect/音效/音效/门/自动门开启.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/FirstPerson/Sound/SoundEffect/音效/音效/风声.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.NDE_R_E/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NDE_R_E/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/LevelPrototyping/Interactable/Mobile_Cube/BP_MobileCube.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/LevelPrototyping/Interactable/Mobile_Cube/BP_MobileCube.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/LevelPrototyping/Interactable/Mobile_Cube/BP_SimpleMoveObj.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/LevelPrototyping/Interactable/Mobile_Cube/BP_SimpleMoveObj.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NDE_R_E.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/NDE_R_E.uproject" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +54,7 @@
     <setting file="file://$PROJECT_DIR$/../../UnrealEngine/UE_5.7/Engine/Source/Runtime/Engine/Classes/Engine/GameInstance.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UnrealEngine/UE_5.7/Engine/Source/Runtime/Engine/Classes/GameFramework/Character.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UnrealEngine/UE_5.7/Engine/Source/Runtime/Engine/Classes/GameFramework/PlayerStart.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../UnrealEngine/UE_5.7/Engine/Source/Runtime/Engine/Classes/Sound/SoundWave.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UnrealEngine/UE_5.7/Engine/Source/Runtime/Engine/Private/GameInstance.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UnrealEngine/UE_5.7/Engine/Source/Runtime/Engine/Private/PlayerStart.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../UnrealEngine/UE_5.7/Engine/Source/Runtime/UMG/Public/Components/Image.h" root0="FORCE_HIGHLIGHTING" />
@@ -43,22 +69,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "C/C++ 项目.NDE_R_E.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Develop2",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.sourceCode.C#",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ 项目.NDE_R_E.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Develop2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.C#&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="C/C++ 项目.NDE_R_E">
     <configuration name="NDE_R_E" type="CppProject" factoryName="C++ Project">
       <configuration_1 setup="1">
@@ -174,6 +200,7 @@
       <workItem from="1778806913207" duration="14000" />
       <workItem from="1779234916406" duration="23000" />
       <workItem from="1779623592644" duration="3000" />
+      <workItem from="1780746104871" duration="8000" />
     </task>
     <servers />
   </component>
